@@ -6,6 +6,6 @@ public class Task {
         while(flag){
             System.out.println("pet");
         }
-        return x * y;
+        return x - y;
     }
 }
