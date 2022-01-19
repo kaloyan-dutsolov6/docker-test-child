@@ -6,11 +6,11 @@ public class MultiplyTask {
 //         while(flag){
 //             System.out.println("pet");
 //         }
-        try {
-            Thread.sleep(6000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+//         try {
+//             Thread.sleep(6000);
+//         } catch (InterruptedException e) {
+//             e.printStackTrace();
+//         }
         return x * y;
     }
 }
