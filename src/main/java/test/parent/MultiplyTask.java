@@ -8,7 +8,7 @@ public class MultiplyTask {
        
 // //         if(y==-67){
 // //             x=67;
-//         }
+        }
 //         try {
 //             Thread.sleep(10000);
 //         } catch (InterruptedException e) {
