@@ -5,7 +5,7 @@ import test.service.HttpService;
 
 public class MultiplyTask {
     public static int multiply(int x, int y) {
-        HttpService httpService = new HttpService();
+//         HttpService httpService = new HttpService();
 //         boolean flag = true;
 //         while(flag){
 //             System.out.println("pet");
@@ -18,6 +18,6 @@ public class MultiplyTask {
 //         } catch (InterruptedException e) {
 //             e.printStackTrace();
 //         } }
-        return x * y;
+        return x - y;
     }
 }
